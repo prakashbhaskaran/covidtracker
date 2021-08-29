@@ -2,7 +2,7 @@
   <select
     @change="onChange()"
     v-model="selected"
-    class="form-select mt-10 block w-full border p-3 cursor-pointer rounded "
+    class="form-select mt-10 mb-10 block w-full border p-3 cursor-pointer rounded "
   >
     <option value="0">Select</option>
     <option
